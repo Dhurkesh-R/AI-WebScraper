@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Dhurkesh\ML learner\Projects\AIWebScraper\ai
+set VIRTUAL_ENV=C:\Users\Dhurkesh\ML learner\Projects\AI WebScraper\ai
 
 if not defined PROMPT set PROMPT=$P$G
 
